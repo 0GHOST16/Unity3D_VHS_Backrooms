@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 313181bed46c3a541ad414ef6ee2d096, type: 3}
+  m_Name: New FSR_Data
+  m_EditorClassIdentifier: 
+  surfaces:
+  - name: Carpet_Yellow
+    soundEffects:
+    - {fileID: 8300000, guid: 38261e08b964eda479eb4baf86c4ecf3, type: 3}
+    - {fileID: 8300000, guid: 74353979fc9253249889016eb1784296, type: 3}
+    - {fileID: 8300000, guid: c02533634d20fc54f91ea91e3464c2ba, type: 3}
+    - {fileID: 8300000, guid: b0f78d79fe57b554182913bdfc0e1152, type: 3}
+    - {fileID: 8300000, guid: 3c681199e68bad4499b879f27961726f, type: 3}
+    - {fileID: 8300000, guid: d55685ea27ca232479e988df8aeba095, type: 3}
+    - {fileID: 8300000, guid: 5653eb00983ef0f44aef533b8d9da967, type: 3}
+    - {fileID: 8300000, guid: 4114bb13b6f25ac4691f43cdb4459c6c, type: 3}
+    - {fileID: 8300000, guid: db61ff5922140994a9a93f716ec980e4, type: 3}
+    - {fileID: 8300000, guid: 36e8f70701c0fe1429b233b412d3f1c9, type: 3}
+    - {fileID: 8300000, guid: 1c4052c1a39b7bd4fabf7be155d761b1, type: 3}
+    - {fileID: 8300000, guid: aa9f374c886cb2a48a80550a3acbc168, type: 3}
+    - {fileID: 8300000, guid: 904ff44eff5c35841aa426de42480b15, type: 3}
+    - {fileID: 8300000, guid: 08c34425616a7b346866d0b77c4e0a0c, type: 3}
+    - {fileID: 8300000, guid: e3dd620ec7e1524489e7df438e9cc2bf, type: 3}
+  - name: Wood
+    soundEffects:
+    - {fileID: 8300000, guid: b8af15270e50dfe4987060687b823d1f, type: 3}
+    - {fileID: 8300000, guid: b470f8b09ea31154882ad66891b0590f, type: 3}
+    - {fileID: 8300000, guid: 4c3553df240a9c941be9904ac6fb96fb, type: 3}
+    - {fileID: 8300000, guid: 5e2d4bc997a1c2b46b294644dbd8bc92, type: 3}
+    - {fileID: 8300000, guid: 7fba3f8a60e948344a32017d7a3dcd16, type: 3}
+    - {fileID: 8300000, guid: b4fc396a01342e44c93597d3ce2f8f35, type: 3}
+    - {fileID: 8300000, guid: 5d63b869527bf9e4a839a1b0c0392be3, type: 3}
+    - {fileID: 8300000, guid: 6d7610587e5ae7e4e9841ad370e91d5c, type: 3}
+    - {fileID: 8300000, guid: 76e5c3085b32edd4aa2fcb08e4dd8106, type: 3}
+  - name: Concrete
+    soundEffects:
+    - {fileID: 8300000, guid: f6513aa18c4385e4cb89b42de77e5e1f, type: 3}
+    - {fileID: 8300000, guid: 2a8a7fa402e3beb4fad2e118af39e150, type: 3}
+    - {fileID: 8300000, guid: 8676b7c04ab858541a9b8fd63859e48b, type: 3}
+    - {fileID: 8300000, guid: b6460dfcd19708a4c8b0788f277ecf91, type: 3}
+    - {fileID: 8300000, guid: 7e5afb56e625afc41b2443e5065b6094, type: 3}
+    - {fileID: 8300000, guid: 606ab0f0ec3ee6f45b4792c41db59838, type: 3}
+    - {fileID: 8300000, guid: 2498c112937493942bd0151c649e31a1, type: 3}
+    - {fileID: 8300000, guid: 460a8952232a11d4ebadb5b5041ab623, type: 3}
+    - {fileID: 8300000, guid: 5bdc03701e0795a4cb1e993f9cf0ad2e, type: 3}
+    - {fileID: 8300000, guid: e95d9eacf30af5d498d6629ce6fa5ae6, type: 3}
+    - {fileID: 8300000, guid: 7e761b9d22bf9c14f8243659c75aea9e, type: 3}
+    - {fileID: 8300000, guid: ed9666594e1f2aa44a0f48c048eb32b1, type: 3}
+    - {fileID: 8300000, guid: 291cb95b380d7e14088c7d487eb56cb5, type: 3}
+    - {fileID: 8300000, guid: 89b0e9969f35ba048a46f8b3c0ce8100, type: 3}
+    - {fileID: 8300000, guid: dc6d977781d7af546ad7926aabe59b08, type: 3}
